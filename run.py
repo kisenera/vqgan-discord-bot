@@ -492,5 +492,5 @@ async def on_message(message):
 
 #bot.run('OTYzOTU2NzA3NDA5Njc4MzM2.YldopA.v4nepZWBzXDP6pDsx_NuRMRmfgM')
 loop = asyncio.get_event_loop()
-loop.create_task(bot.start('OTYzOTU2NzA3NDA5Njc4MzM2.YldopA.v4nepZWBzXDP6pDsx_NuRMRmfgM'))
+loop.create_task(bot.start('TOKEN'))
 loop.run_forever()
