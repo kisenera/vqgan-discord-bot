@@ -1,1 +1,1 @@
-Discord bot that connects to VQGAN+CLIP Colab
+Discord bot that connects to VQGAN+CLIP Colab (an image generation program). The main run.py file was coded by me which incorporates accessing colab and also runs gpt_2.py file; gpt_2.py file was code obtained via open source.
